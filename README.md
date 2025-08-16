@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 2. **Open the notebook**
 ```bash
-jupyter notebook notebooks/FaceMaskDetection(CNN)project6.ipynb
+jupyter notebook notebooks/FaceMaskDetection(CNN).ipynb
 ```
 
 3. **(Optional) Run inference with a saved model**
