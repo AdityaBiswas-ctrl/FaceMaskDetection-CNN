@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow>=2.12
+keras>=2.12
+opencv-python
+Pillow
+tqdm
+pyyaml
